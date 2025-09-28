@@ -7,11 +7,15 @@ The dataset includes employee details such as `employee_id`, `first_name`, `last
 
 ## 📂 Repository Structure
 task4-sql-data-analysis/
-├── data/ # (Optional) contains employees.csv
-├── schema.sql # Table creation script
-├── task4_queries.sql # All queries for the task
-├── screenshots/ # Query outputs & EXPLAIN ANALYZE screenshots
-└── README.md # Documentation
+├── data/                # optional, for CSV
+├── schema.sql
+├── task4_queries.sql
+├── screenshots/         # 📂 put screenshots here
+│   ├── 01_schema.png
+│   ├── 02_import.png
+│   ├── 03_top_salaries.png
+│   ├── 04_explain.png
+└── README.md
 
 
 ---
