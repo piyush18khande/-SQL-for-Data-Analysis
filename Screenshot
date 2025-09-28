@@ -1,1 +1,4 @@
+git add screenshots/
+git commit -m "Added screenshots of schema, queries and results"
+git push origin main
 
